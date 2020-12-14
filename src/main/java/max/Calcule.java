@@ -1,3 +1,5 @@
+package max;
+
 public class Calcule
 {
 	private final int operande1;
